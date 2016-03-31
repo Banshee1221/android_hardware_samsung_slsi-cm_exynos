@@ -32,6 +32,7 @@
 #include <EGL/egl.h>
 
 #define HWC_REMOVE_DEPRECATED_VERSIONS 1
+#define SOC_NUM_HW_WINDOWS 5
 
 #include <cutils/compiler.h>
 #include <cutils/log.h>
